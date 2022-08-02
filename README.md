@@ -83,6 +83,16 @@ A continuación se muestran algunas librerias comunmente usadas en python para c
 
 ## Medidas
 
+1. Metricas 
+2. Diagramas (Falta)
+
+## Notebooks Ejemplos
+
+
+## Pendientes
+
+1. Faltan las relacionadas con datos categoricos.
+2. Falta la sección de diagramas.
 
 ## Referencias
 
