@@ -83,16 +83,20 @@ A continuación se muestran algunas librerias comunmente usadas en python para c
 
 ## Medidas
 
-1. Metricas 
+1. Metricas ([link](../intro-eda/metricas-dispersion/metricas.ipynb))
 2. Diagramas (Falta)
 
 ## Notebooks Ejemplos
 
+1. Ejemplos medidas 1 ([link](../intro-eda/ejemplos/ejemplos_medidas1.ipynb))
+2. Ejemplos medidas 2 ([link](../intro-eda/ejemplos/ejemplos_medidas2.ipynb))
 
 ## Pendientes
 
 1. Faltan las relacionadas con datos categoricos.
 2. Falta la sección de diagramas.
+3. Mejorar el contenido de los ejemplos.
+4. Falta una sección dedicada a los Data frames y operaciones sobre estos.
 
 ## Referencias
 
