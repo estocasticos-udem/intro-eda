@@ -83,7 +83,7 @@ A continuación se muestran algunas librerias comunmente usadas en python para c
 
 ## Medidas
 
-1. Metricas ([link](../intro-eda/metricas-dispersion/metricas.ipynb))
+1. Metricas ([link](./metricas-dispersion/metricas.ipynb))
 2. Diagramas (Falta)
 
 ## Notebooks Ejemplos
