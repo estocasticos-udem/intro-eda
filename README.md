@@ -88,8 +88,8 @@ A continuación se muestran algunas librerias comunmente usadas en python para c
 
 ## Notebooks Ejemplos
 
-1. Ejemplos medidas 1 ([link](../intro-eda/ejemplos/ejemplos_medidas1.ipynb))
-2. Ejemplos medidas 2 ([link](../intro-eda/ejemplos/ejemplos_medidas2.ipynb))
+1. Ejemplos medidas 1 ([link](./ejemplos/ejemplos_medidas1.ipynb))
+2. Ejemplos medidas 2 ([link](./ejemplos/ejemplos_medidas2.ipynb))
 
 ## Pendientes
 
