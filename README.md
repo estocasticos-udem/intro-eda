@@ -73,12 +73,15 @@ A continuación se muestran algunas librerias comunmente usadas en python para c
 |Pandas|[http://pandas.pydata.org/](http://pandas.pydata.org/)|
 |SciKit-Learn|[http://scikit-learn.org/](http://scikit-learn.org/)|
 
+
 ### Librerias para visualización
 
 |Libreria|URL|
 |---|---|
 |Matplotlib|[https://matplotlib.org/](https://matplotlib.org/)|
 |Seaborn|[https://seaborn.pydata.org/](https://seaborn.pydata.org/)|
+
+## Medidas
 
 
 ## Referencias
